@@ -1,0 +1,24 @@
+INPUT_DIR: data
+
+INPUT_FILES:
+  charges: /Charges_use.csv
+  damages: /Damages_use.csv
+  endorse: /Endorse_use.csv
+  primary_person: /Primary_Person_use.csv
+  restrict: /Restrict_use.csv
+  units: /Units_use.csv
+
+OUTPUT_DIR: output
+
+OUTPUT_FILES:
+  analytics_1: /analytics_1.csv
+  analytics_2: /analytics_2.csv
+  analytics_3: /analytics_3.csv
+  analytics_4: /analytics_4.csv
+  analytics_5: /analytics_5.csv
+  analytics_6: /analytics_6.csv
+  analytics_7: /analytics_7.csv
+  analytics_8: /analytics_8.csv
+  analytics_9: /analytics_9.csv
+  analytics_10: /analytics_10.csv
+
